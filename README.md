@@ -22,8 +22,12 @@ In this notebook, we demonstrate the integration of data discovery tools such as
 
 We also showcase the [Pangeo catalog](https://catalog.pangeo.io/), an open source project to enumerate and organize cloud optimized climate data stored across a variety of providers, and a place where several intake-esm collections are now publicly available. We use one of these public collections as an example to show how an end user would explore and interact with the data, and conclude with a short overview of the catalog's online presence.
 
+
+
 ## Try this notebook on Pangeo Binder
 
 To try this notebook in your web browser, just click on the binder logo/image:
 
 [![Binder](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=GCE+us-central1&color=blue&style=for-the-badge)](https://binder.pangeo.io/v2/gh/earthcube2020/ec20_banihirwe_etal/master)
+
+A static version is also available [here](https://nbviewer.jupyter.org/github/earthcube2020/ec20_banihirwe_etal/blob/master/intake-pangeo-catalog.ipynb)
