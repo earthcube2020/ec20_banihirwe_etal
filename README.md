@@ -1,6 +1,7 @@
-[![Binder](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=GCE+us-central1&color=blue&style=for-the-badge)](https://binder.pangeo.io/v2/gh/andersy005/intake-pangeo-catalog-EarthCube-2020/master)
+[![Binder](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=GCE+us-central1&color=blue&style=for-the-badge)](https://binder.pangeo.io/v2/gh/earthcube2020/ec20_banihirwe_etal/master)
 
 # Intake / Pangeo Catalog: Making It Easier To Consume Earth’s Climate and Weather Data
+
 - [Intake / Pangeo Catalog: Making It Easier To Consume Earth’s Climate and Weather Data](#intake--pangeo-catalog-making-it-easier-to-consume-earths-climate-and-weather-data)
   - [Authors](#authors)
   - [Abstract](#abstract)
@@ -11,7 +12,7 @@
 - [Anderson Banihirwe](https://github.com/andersy005) (National Center for Atmospheric Research)
 - [Charles Blackmon-Luca](https://github.com/charlesbluca) (Columbia University / Lamont Doherty Earth Observatory)
 - [Ryan Abernathey](https://github.com/rabernat) (Columbia University / Lamont Doherty Earth Observatory)
-- [Joe Hamman](https://github.com/jhamman) (National Center for Atmospheric Research)
+- [Joseph Hamman](https://github.com/jhamman) (National Center for Atmospheric Research)
 
 ## Abstract
 
@@ -25,4 +26,4 @@ We also showcase the [Pangeo catalog](https://catalog.pangeo.io/), an open sourc
 
 To try this notebook in your web browser, just click on the binder logo/image:
 
-[![Binder](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=GCE+us-central1&color=blue&style=for-the-badge)](https://binder.pangeo.io/v2/gh/andersy005/intake-pangeo-catalog-EarthCube-2020/master)
+[![Binder](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=GCE+us-central1&color=blue&style=for-the-badge)](https://binder.pangeo.io/v2/gh/earthcube2020/ec20_banihirwe_etal/master)
